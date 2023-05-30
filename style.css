@@ -11,7 +11,7 @@ section {
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    background: #ffffff;
+    background: #1f1f1f;
    
 
 }
@@ -33,13 +33,13 @@ i {
     padding: 0 5px;
     user-select: none;
     cursor: default;
-    filter: drop-shadow(2px 1px 2px rgb(28, 1, 150));
+    filter: drop-shadow(2px 1px 2px rgb(155, 5, 5));
 
 }
 
 i:hover {
-    color: rgb(76, 0, 255);
-    text-shadow: 0 0 120px rgb(0, 17, 255);
+    color: rgb(255, 0, 0);
+    text-shadow: 0 0 120px rgb(255, 0, 0);
     transition: 1s;
     z-index: 1;
 }

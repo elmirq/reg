@@ -5,7 +5,7 @@
     align-items: center;
     font-family: 'Jost', sans-serif ;
     overflow: hidden;
-    background: linear-gradient(to bottom, #3a04ff,#8c00ff,#cc00ff );
+    background: linear-gradient(to bottom, #2a1e46,#2a1e46,#ff0000 );
 margin:auto ;
 margin-top: 200px ;
 margin-left: -200px ;
@@ -29,7 +29,7 @@ height: 100%;
 }
 label{
 color: #ffffff;
-text-shadow: 5px 5px 5px #000000;
+text-shadow: 2px 1px 2px #030303;
 font-size: 2.3em;
 justify-content: center;
 display: flex;
@@ -76,7 +76,7 @@ background: rgb(158, 158, 158);
 }
 .login{
 height: 460px;
-background: #450ec4;
+background: #4e3880;
 border-radius: 60%/10%;
 transform: translateY(-180px);
 transition: .8s ease-in-out;
